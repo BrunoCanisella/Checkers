@@ -9,7 +9,7 @@ LARGURA = 800
 ALTURA =  600
 display_surface = pygame.display.set_mode((LARGURA, ALTURA ))
 pygame.display.set_caption('Damas')
-image = pygame.image.load(r'C:\Users\...\damas 800x600.jpg')
+image = pygame.image.load(r'C:\...\damas 800x600.jpg')
 
 DARKGRAY = (64,64,64)
 PRETO = (0, 0, 0)
