@@ -6,7 +6,7 @@ Agora devemos arrumar o virar dama e comer da casa de dama a peça que está na 
 
 Mostrar quando é obrigatório a comer do lado igual ao turno.(feito)
 
-arrumar bug da peca mover a partir da segunda linha(feito)
+Arrumar bug da peca mover a partir da segunda linha(feito)
 
 Tirar comer para trás (URGENTE)(feito)
 
