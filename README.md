@@ -1,4 +1,4 @@
-damas
+CHECKERS
 
 Arrumamos o comer e virar dama( Feito)
 
