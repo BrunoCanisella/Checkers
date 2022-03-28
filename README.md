@@ -1,8 +1,8 @@
 #CHECKERS
 
-Arrumamar a função comer e virar dama. (Feito)
+Arrumar a função comer e virar dama. (Feito)
 
-Agora devemos arrumara função comer da casa coroação a peça oponente que está na linha. (Feito)
+Agora devemos arrumar a função comer da casa coroação a peça oponente que está na linha. (Feito)
 
 Mostrar quando é obrigatório a comer do lado igual ao turno. (Feito)
 
