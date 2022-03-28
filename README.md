@@ -1,17 +1,15 @@
-CHECKERS
+#CHECKERS
 
-Arrumamos o comer e virar dama( Feito)
+Arrumamar a função comer e virar dama. (Feito)
 
-Agora devemos arrumar o virar dama e comer da casa de dama a peça que está na linha.(feito)
+Agora devemos arrumara função comer da casa coroação a peça oponente que está na linha. (Feito)
 
-Mostrar quando é obrigatório a comer do lado igual ao turno.(feito)
+Mostrar quando é obrigatório a comer do lado igual ao turno. (Feito)
 
-Arrumar bug da peca mover a partir da segunda linha(feito)
+Arrumar bug da peca mover a partir da segunda linha. (Feito)
 
-Tirar comer para trás (URGENTE)(feito)
+Colocar Wallpaper (Preferencial). (Feito)
 
-Colocar Wallpaper (Preferencial)
+Formatar o Manual (Preferencial). (Feito)
 
-Formatar o Manual (Preferencial)(feito)
-
-Terminar de comentar o código e entende-lo (feito)
+Terminar de comentar o código. (Feito)
