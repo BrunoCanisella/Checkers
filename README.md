@@ -13,3 +13,5 @@ Colocar Wallpaper (Preferencial). (Feito)
 Formatar o Manual (Preferencial). (Feito)
 
 Terminar de comentar o código. (Feito)
+
+Instalar a extensão Pygames e instalar o Python
