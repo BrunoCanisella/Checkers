@@ -14,4 +14,6 @@ Formatar o Manual (Preferencial). (Feito)
 
 Terminar de comentar o código. (Feito)
 
-Instalar a extensão Pygames e instalar o Python
+Instalar a extensão Pygames v2.1.2  
+
+Instalar o Python v3.10
